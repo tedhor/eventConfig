@@ -1,0 +1,1994 @@
+{
+    "campaignId": 346,
+    "eventId": 346,
+    "config": [
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Allergy/Immunology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0002792",
+                    "headers": {
+                        "condition": "Anaphylaxis",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Allergy/Immunology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Paediatrics",
+                            "primary": true
+                        }, 
+                        {
+                            "value": "Internal Medicine",
+                            "primary": true
+                        }               
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Cardiology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0020557",
+                    "headers": {
+                        "condition": "Hypertriglyceridemia",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Cardiology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Internal Medicine",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Cardiology - Interventional",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0020557",
+                    "headers": {
+                        "condition": "Hypertriglyceridemia",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Cardiology - Interventional",
+                            "primary": true
+                        },
+                        {
+                            "value": "Internal Medicine",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Dermatology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033860",
+                    "headers": {
+                        "condition": "Psoriasis",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Dermatology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Rheumatology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Endocrinology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0011860",
+                    "headers": {
+                        "condition": "Diabetes Mellitus, Type 2",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Endocrinology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Internal Medicine",
+                            "primary": true
+                        },
+                        {
+                            "value": "GPs/FPs",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Gastroenterology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0022104",
+                    "headers": {
+                        "condition": "Irritable Bowel Syndrome",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Gastroenterology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Surgery - General",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Haematology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0002895",
+                    "headers": {
+                        "condition": "Anemia, Sickle Cell",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Haematology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Paediatrics",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Haematology - Oncology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033578",
+                    "headers": {
+                        "condition": "Prostatic Neoplasms",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Haematology - Oncology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Urology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Infectious Disease",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0001175",
+                    "headers": {
+                        "condition": "Acquired Immunodeficiency Syndrome",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Infectious Disease",
+                            "primary": true
+                        },
+                        {
+                            "value": "GPs/FPs",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Neurology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0038454",
+                    "headers": {
+                        "condition": "Stroke",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Neurology",
+                            "primary": true
+                        },
+                        {
+                            "value": "GPs/FPs",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Oncology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033578",
+                    "headers": {
+                        "condition": "Prostatic Neoplasms",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Oncology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Urology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Oncology - Radiation",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033578",
+                    "headers": {
+                        "condition": "Prostatic Neoplasms",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Oncology - Radiation",
+                            "primary": true
+                        },
+                        {
+                            "value": "Urology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Oncology - Surgical",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033578",
+                    "headers": {
+                        "condition": "Prostatic Neoplasms",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Oncology - Surgical",
+                            "primary": true
+                        },
+                        {
+                            "value": "Urology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Ophthalmology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0024437",
+                    "headers": {
+                        "condition": "Macular Degeneration",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Ophthalmology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Psychiatry",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0003467",
+                    "headers": {
+                        "condition": "Anxiety",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Psychiatry",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Respirology/Pulmonology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0004096",
+                    "headers": {
+                        "condition": "Asthma",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Respirology/Pulmonology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Paediatrics",
+                            "primary": true
+                        },
+                        {
+                            "value": "GPs/FPs",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Rheumatology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033860",
+                    "headers": {
+                        "condition": "Psoriasis",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Rheumatology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Dermatology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Surgery - Cardio/Thoracic",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "USA",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0020557",
+                    "headers": {
+                        "condition": "Hypertriglyceridemia",
+                        "location": "USA"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Surgery - Cardio/Thoracic",
+                            "primary": true
+                        },
+                        {
+                            "value": "Internal Medicine",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "USA",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Allergy/Immunology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0002792",
+                    "headers": {
+                        "condition": "Anaphylaxis",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Allergy/Immunology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Paediatrics",
+                            "primary": true
+                        }, 
+                        {
+                            "value": "Internal Medicine",
+                            "primary": true
+                        }               
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Cardiology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0020557",
+                    "headers": {
+                        "condition": "Hypertriglyceridemia",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Cardiology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Internal Medicine",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Cardiology - Interventional",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0020557",
+                    "headers": {
+                        "condition": "Hypertriglyceridemia",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Cardiology - Interventional",
+                            "primary": true
+                        },
+                        {
+                            "value": "Internal Medicine",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Dermatology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033860",
+                    "headers": {
+                        "condition": "Psoriasis",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Dermatology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Rheumatology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Endocrinology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0011860",
+                    "headers": {
+                        "condition": "Diabetes Mellitus, Type 2",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Endocrinology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Internal Medicine",
+                            "primary": true
+                        },
+                        {
+                            "value": "GPs/FPs",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Gastroenterology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0022104",
+                    "headers": {
+                        "condition": "Irritable Bowel Syndrome",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Gastroenterology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Surgery - General",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Haematology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0002895",
+                    "headers": {
+                        "condition": "Anemia, Sickle Cell",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Haematology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Paediatrics",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Haematology - Oncology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033578",
+                    "headers": {
+                        "condition": "Prostatic Neoplasms",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Haematology - Oncology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Urology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Infectious Disease",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0001175",
+                    "headers": {
+                        "condition": "Acquired Immunodeficiency Syndrome",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Infectious Disease",
+                            "primary": true
+                        },
+                        {
+                            "value": "GPs/FPs",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Neurology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0038454",
+                    "headers": {
+                        "condition": "Stroke",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Neurology",
+                            "primary": true
+                        },
+                        {
+                            "value": "GPs/FPs",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Oncology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033578",
+                    "headers": {
+                        "condition": "Prostatic Neoplasms",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Oncology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Urology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Oncology - Radiation",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033578",
+                    "headers": {
+                        "condition": "Prostatic Neoplasms",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Oncology - Radiation",
+                            "primary": true
+                        },
+                        {
+                            "value": "Urology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Oncology - Surgical",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033578",
+                    "headers": {
+                        "condition": "Prostatic Neoplasms",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Oncology - Surgical",
+                            "primary": true
+                        },
+                        {
+                            "value": "Urology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Ophthalmology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0024437",
+                    "headers": {
+                        "condition": "Macular Degeneration",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Ophthalmology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Psychiatry",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0003467",
+                    "headers": {
+                        "condition": "Anxiety",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Psychiatry",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Respirology/Pulmonology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0004096",
+                    "headers": {
+                        "condition": "Asthma",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Respirology/Pulmonology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Paediatrics",
+                            "primary": true
+                        },
+                        {
+                            "value": "GPs/FPs",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Rheumatology",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0033860",
+                    "headers": {
+                        "condition": "Psoriasis",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Rheumatology",
+                            "primary": true
+                        },
+                        {
+                            "value": "Dermatology",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "audience": {
+                "profession": {
+                    "type": "lima",
+                    "value": "physician",
+                    "preferenceOrder": 20
+                },
+                "wla": "Yes",
+                "specialty": {
+                    "type": "lima",
+                    "value": "Surgery - Cardio/Thoracic",
+                    "preferenceOrder": 20
+                },
+                "location": [
+                    {
+                        "postalCountry": "UK",
+                        "postalState": false,
+                        "postalCity": false,
+                        "limaCountry": false,
+                        "limaState": false,
+                        "limaCity": false
+                    }
+                ]
+            },
+            "content": {
+                "type": "lima10",
+                "value": {
+                    "conditionId": "C0020557",
+                    "headers": {
+                        "condition": "Hypertriglyceridemia",
+                        "location": "UK"
+                    },
+                    "specialties": [
+                        {
+                            "value": "Surgery - Cardio/Thoracic",
+                            "primary": true
+                        },
+                        {
+                            "value": "Internal Medicine",
+                            "primary": true
+                        }
+                    ],
+                    "location": [
+                        {
+                            "postalCountry": "UK",
+                            "postalState": false,
+                            "postalCity": false,
+                            "limaCountry": false,
+                            "limaState": false,
+                            "limaCity": false
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
